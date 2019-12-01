@@ -1,5 +1,4 @@
 ;(function (globalScope) {
-  'use strict';
 
 
   /*
